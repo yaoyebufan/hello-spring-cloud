@@ -1,0 +1,5 @@
+D:\开发项目\hello-spring-cloud\hello-spring-cloud-web-admin-feign\src\main\java\com\sunyue\hello\spring\cloud\web\admin\feign\config\HystrixDashboardConfiguration.java
+D:\开发项目\hello-spring-cloud\hello-spring-cloud-web-admin-feign\src\main\java\com\sunyue\hello\spring\cloud\web\admin\feign\service\hystrix\AdminServiceHystrix.java
+D:\开发项目\hello-spring-cloud\hello-spring-cloud-web-admin-feign\src\main\java\com\sunyue\hello\spring\cloud\web\admin\feign\WebAdminFeignApplication.java
+D:\开发项目\hello-spring-cloud\hello-spring-cloud-web-admin-feign\src\main\java\com\sunyue\hello\spring\cloud\web\admin\feign\controller\AdminController.java
+D:\开发项目\hello-spring-cloud\hello-spring-cloud-web-admin-feign\src\main\java\com\sunyue\hello\spring\cloud\web\admin\feign\service\AdminService.java
